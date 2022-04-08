@@ -5,8 +5,6 @@ VisualStudioVersion = 16.0.31911.196
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HelloCUDA", "HelloCUDA\HelloCUDA.vcxproj", "{C5D7BF1B-D9D8-4A4B-8BF6-EF24C0D754EE}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "接单", "接单", "{578E0FE6-F166-4793-BE4B-6890713FB9EA}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
